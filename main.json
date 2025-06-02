@@ -1,0 +1,305 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Ainavi 13.1 pouces autoradio pour VW Volkswagen T5 Tiguan Golf Polo Touran Skoda",
+      "brand": "Ainavi",
+      "carBrand": "VW",
+      "category": "AUTORADIO",
+      "price": 575,
+      "image": "./CARPLAY1.avif"
+      
+    },
+    {
+      "id": 2,
+      "name": "ESSGOO Android 14 autoradio pour Volkswagen Passat b6 b7 golf 5 6 Polo Jetta Skoda",
+      "brand": "ESSGOO",
+      "carBrand": "Volkswagen",
+      "category": "AUTORADIO",
+      "price": 90,
+      "image": "./Carplay2.avif"
+    },
+    {
+      "id": 3,
+      "name": "PodoNuremberg-Autoradio Android CarPlay, 4G, Système Intelligent, pour Peugeot 308, 408",
+      "brand": "PodoNuremberg",
+      "carBrand": "Peugeot",
+      "category": "AUTORADIO",
+      "price": 200,
+      "image": "./CARPLAY3.avif"
+    },
+    {
+      "id": 4,
+      "name": "AUTOABC sans fil Carplay Android auto pour Peugeot 208 308 508 3008 citroën C4 DS3 DS4 DS5 SMEG caméra multimédia",
+      "brand": "AUTOABC",
+      "carBrand": "Peugeot",
+      "category": "BOITIER CARPLAY",
+      "price": 175,
+      "image": "./carplay4.avif"
+    },
+    {
+      "id": 5,
+      "name": "Hizpo Autoradio pour Renault Clio 3 2005-2014 lecteur multimédia sans fil CarPlay Android Auto",
+      "brand": "Hizpo",
+      "carBrand": "Renault",
+      "category": "AUTORADIO",
+      "price": 125,
+      "image": "./carplay5.avif"
+    },
+    {
+      "id": 6,
+      "name": "MiCODUS relais GPS Tracker voiture MV820 9-90V coupure carburant Mini GPS Tracker",
+      "brand": "MiCODUS",
+      "carBrand": "Universal",
+      "category": "SECURITE",
+      "price": 40,
+      "image": "./gps1.avif"
+    },
+    {
+      "id": 7,
+      "name": "Alarme MED MED7450 à distance, contrôle téléphone, temps réel",
+      "brand": "MED",
+      "carBrand": "Universal",
+      "category": "SECURITE",
+      "price": 250,
+      "image": "./alarme-med-med7450.jpg"
+    },
+    {
+      "id": 8,
+      "name": "ATABEN Voiture lumière ambiante APP contrôle 64 couleurs intérieur éclairage atmosphère",
+      "brand": "ATABEN",
+      "carBrand": "Universal",
+      "category": "DECORATION",
+      "price": 80,
+      "image": "./leda1.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Srnubi Qualcomm 8 Core Android 13 Carplay Auto stéréo pour Peugeot 2008 208 2012 - 2018",
+      "brand": "Srnubi",
+      "carBrand": "Peugeot",
+      "category": "AUTORADIO",
+      "price": 100,
+      "image": "./Carplay6.avif"
+    },
+    {
+      "id": 10,
+      "name": "ESSGOO Android 14 autoradio pour Volkswagen Passat b6 b7 golf 5 6 Polo Jetta Skoda",
+      "brand": "ESSGOO",
+      "carBrand": "Volkswagen",
+      "category": "AUTORADIO",
+      "price": 400,
+      "image": "./carplay7.avif"
+    },
+    {
+      "id": 11,
+      "name": "Permanence 4G pour BMW Série 3 E60 E61 E63 E64, Série 5 E90 E91 E92 E93, Android 14, Navigation CarPlay",
+      "brand": "Permanence",
+      "carBrand": "BMW",
+      "category": "AUTORADIO",
+      "price": 200,
+      "image": "./carplay8.avif"
+    },
+    {
+      "id": 12,
+      "name": "Hizpo autoradio pour Toyota Corolla Auris 2013-2016, CarPlay Android Auto, GPS, Bluetooth, WIFI",
+      "brand": "Hizpo",
+      "carBrand": "Toyota",
+      "category": "AUTORADIO",
+      "price": 275,
+      "image": "./carplay9.avif"
+    },
+    {
+      "id": 13,
+      "name": "Podofo 8Core 2Din autoradio pour Toyota Aygo 2015/Citroen C1 2020/Peugeot 108, Navigation WIFI 4G Carplay DSP",
+      "brand": "Podofo",
+      "carBrand": "Toyota",
+      "category": "AUTORADIO",
+      "price": 175,
+      "image": "./carplay10.avif"
+    },
+    {
+      "id": 14,
+      "name": "Ainavi autoradio pour Toyota Prius 2009-2015 sans fil Carplay Android Auto, 2 Din",
+      "brand": "Ainavi",
+      "carBrand": "Toyota",
+      "category": "AUTORADIO",
+      "price": 400,
+      "image": "./carplay11.avif"
+    },
+    {
+      "id": 15,
+      "name": "Autoradio pour Toyota Prius 20 2003 - 2009 sans fil Android Auto Carplay, écran tactile, GPS",
+      "brand": "Inconnu",
+      "carBrand": "Toyota",
+      "category": "AUTORADIO",
+      "price": 275,
+      "image": "./carplay12.avif"
+    },
+    {
+      "id": 16,
+      "name": "Hizpo 8 Core Android 13 autoradio pour Toyota Prius 3 2009 - 2015, lecteur vidéo, Navigation, GPS, Carplay 4G WIFI",
+      "brand": "Hizpo",
+      "carBrand": "Toyota",
+      "category": "AUTORADIO",
+      "price": 120,
+      "image": "./carplay13.avif"
+    },
+    {
+      "id": 17,
+      "name": "Autoradio Android 14 4G + WiFi DSP CarPlay lecteur vidéo multimédia pour Peugeot 508 2011-2018, Navigation GPS, 2 din",
+      "brand": "AndroidAuto",
+      "carBrand": "Peugeot",
+      "category": "AUTORADIO",
+      "price": 250,
+      "image": "./carpaly14.avif"
+    },
+    {
+      "id": 18,
+      "name": "10.26\" voiture miroir Radio multimédia, lecteur vidéo universel sans fil Carplay Android Auto, Bluetooth, AUX, USB",
+      "brand": "Inconnu",
+      "carBrand": "Universal",
+      "category": "AUTORADIO",
+      "price": 60,
+      "image": "./carplayuni15.avif"
+    },
+    {
+      "id": 19,
+      "name": "ESSGOO Android 14 10.1 pouces universel simple rotatif autoradio, Carplay lecteur multimédia, GPS Navi, stéréo",
+      "brand": "ESSGOO",
+      "carBrand": "Universal",
+      "category": "AUTORADIO",
+      "price": 150,
+      "image": "./carplay16.avif"
+    },
+    {
+      "id": 20,
+      "name": "Autoradio CarPlay Android Auto 9 pouces, lecteur vidéo multimédia, écran tactile IPS, entrée AUX, Bluetooth MirrorLink",
+      "brand": "Inconnu",
+      "carBrand": "Universal",
+      "category": "AUTORADIO",
+      "price": 75,
+      "image": "./carplay17.avif"
+    },
+    {
+      "id": 21,
+      "name": "HGDO-Rétroviseur Carplay et Android Auto, 10\", 4K, DVR, caméra tableau de bord, recul, WiFi 5G, BT, FM, AirPlay Mirror",
+      "brand": "HGDO",
+      "carBrand": "Universal",
+      "category": "AUTORADIO",
+      "price": 130,
+      "image": "./rétrocarplay1.avif"
+    },
+    {
+      "id": 22,
+      "name": "CarPlay sans fil Android pour BMW, système CIC, NBT, pour séries X1, X3, X4, X5, F20-F34, F10, E84",
+      "brand": "Inconnu",
+      "carBrand": "BMW",
+      "category": "BOITIER CARPLAY",
+      "price": 150,
+      "image": "./boitiercarplay2.avif"
+      
+    },
+    {
+      "id": 23,
+      "name": "Interface automatique Android CarPlay sans fil Road Top pour Audi A8 D3 2012–2018, avec AirPlay Mirror Link",
+      "brand": "Inconnu",
+      "carBrand": "Audi",
+      "category": "BOITIER CARPLAY",
+      "price": 220,
+      "image": "./boitiercarplay3.avif"
+    },
+    {
+      "id": 24,
+      "name": "CARABC voiture sans fil Carplay Android Auto pour Volkswagen Touareg RNS850 2011-2015, commande vocale, lien miroir",
+      "brand": "CARABC",
+      "carBrand": "Volkswagen",
+      "category": "BOITIER CARPLAY",
+      "price": 125,
+      "image": "./boitiercarplay4.avif"
+    },
+    {
+      "id": 25,
+      "name": "Autoradio Android Auto Sans Fil pour Mercedes Benz Classe C, GLC, NTG, avec Wild Carplay Mirror Link AirPlay",
+      "brand": "Inconnu",
+      "carBrand": "Mercedes",
+      "category": "BOITIER CARPLAY",
+      "price": 225,
+      "image": "./boitiercarplay5.avif"
+    },
+    {
+      "id": 26,
+      "name": "CARABC sans fil CarPlay Android Auto pour Audi A6/A7, Interface Bluetooth Audio, caméra arrière CarPlay",
+      "brand": "CARABC",
+      "carBrand": "Audi",
+      "category": "BOITIER CARPLAY",
+      "price": 175,
+      "image": "./boitiercarplay6.avif"
+    },
+    {
+      "id": 27,
+      "name": "Wild CarPlay Android Auto sans fil pour Audi A4/A5/Q5, liaison miroir AirPlay",
+      "brand": "Inconnu",
+      "carBrand": "Audi",
+      "category": "BOITIER CARPLAY",
+      "price": 180,
+      "image": "./boitiercarplay7.avif"
+    },
+    {
+      "id": 28,
+      "name": "Module de voiture sans fil Carplay Android Auto pour Volkswagen/Skoda (Octavia, Golf 7, Polo, Passat) avec MIB/MIB2 et caméra support Airplay",
+      "brand": "Inconnu",
+      "carBrand": "Volkswagen",
+      "category": "BOITIER CARPLAY",
+      "price": 175,
+      "image": "./boitiercarplay8.avif"
+    },
+    {
+      "id": 29,
+      "name": "Carplay sans fil pour Volvo, Android Auto, Airplay, lien miroir, accessoires pour XC60, S60, V40, V60, XC90, S",
+      "brand": "Inconnu",
+      "carBrand": "Volvo",
+      "category": "BOITIER CARPLAY",
+      "price": 225,
+      "image": "./boitiercarplay9.avif"
+    },
+    {
+      "id": 30,
+      "name": "Carplay sans fil Android Auto pour TOYOTA Touch 2 Entune 2.0, Highlander, Tundra, Sienna, Prius, Yaris, Camry, CHR Module décodeur",
+      "brand": "Inconnu",
+      "carBrand": "Toyota",
+      "category": "BOITIER CARPLAY",
+      "price": 120,
+      "image": "./boitiercarplay10.avif"
+    },
+    {
+      "id": 31,
+      "name": "Caméra de tableau de bord 4K UHD pour voiture, enregistreur vidéo DVR, vision nocturne, WiFi, double objectif, GPS, stationnement 24H",
+      "brand": "Inconnu",
+      "carBrand": "Universal",
+      "category": "SECURITE",
+      "price": 70,
+      "image": "./dashcam1.avif"
+    },
+    {
+      "id": 32,
+      "name": "AUTOABC sans fil Carplay Android auto pour Peugeot 208 308 508 3008 citroën C4 DS3 DS4 DS5 SMEG caméra multimédia",
+      "brand": "AUTOABC",
+      "carBrand": "Peugeot",
+      "category": "SECURITE",
+      "price": 150,
+      "image": "./rétrodashcam.avif"
+    },
+
+     {
+      "id": 33,
+      "name": "AUTOABC sans fil Carplay Android auto pour Peugeot 208 308 508 3008 citroën C4 DS3 DS4 DS5 SMEG caméra multimédia",
+      "brand": "AUTOABC",
+      "carBrand": "Peugeot",
+      "category": "SECURITE",
+      "price": 150,
+      "image": "./rétrodashcam.avif"
+    }
+
+  ]
+}
