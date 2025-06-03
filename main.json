@@ -286,19 +286,19 @@
       "name": "AUTOABC sans fil Carplay Android auto pour Peugeot 208 308 508 3008 citroën C4 DS3 DS4 DS5 SMEG caméra multimédia",
       "brand": "AUTOABC",
       "carBrand": "Peugeot",
-      "category": "SECURITE",
+      "category": "SECURITE", 
       "price": 150,
       "image": "./rétrodashcam.avif"
     },
 
      {
       "id": 33,
-      "name": "AUTOABC sans fil Carplay Android auto pour Peugeot 208 308 508 3008 citroën C4 DS3 DS4 DS5 SMEG caméra multimédia",
-      "brand": "AUTOABC",
-      "carBrand": "Peugeot",
+      "name": "Alarme GT ALARME KIT990.37GT",
+      "brand": "GT ALARME",
+      "carBrand": "Alarme",
       "category": "SECURITE",
-      "price": 150,
-      "image": "./rétrodashcam.avif"
+      "price": 650,
+      "image": "./KIT ALARME 2.jpg"
     }
 
   ]
