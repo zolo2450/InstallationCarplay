@@ -807,103 +807,115 @@ textarea.input {
   width: 100%;
 }
 
-.product .product-img>img {
+.product {
+  border: 1px solid #eee;
+  border-radius: 10px;
+  overflow: hidden;
+  background: #fff;
+  transition: box-shadow 0.3s ease;
+  margin-bottom: 30px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.product:hover {
+  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+}
+
+.product .product-img {
+  position: relative;
   width: 100%;
+  text-align: center;
+  padding: 20px;
+  background-color: #ffffff;
+}
+
+.product-img img {
+  width: 80px; /* Plus petit, élégant */
+  height: auto;
+  object-fit: contain;
 }
 
 .product .product-img .product-label {
   position: absolute;
-  top: 15px;
-  right: 15px;
+  top: 10px;
+  right: 10px;
 }
 
-.product .product-img .product-label>span {
+.product .product-img .product-label > span {
   border: 2px solid;
-  padding: 2px 10px;
-  font-size: 12px;
+  padding: 2px 8px;
+  font-size: 11px;
+  border-radius: 4px;
+  font-weight: bold;
 }
 
-.product .product-img .product-label>span.sale {
-  background-color: #FFF;
+.product-label > span.sale {
+  background-color: #fff;
   border-color: #D10024;
   color: #D10024;
 }
 
-.product .product-img .product-label>span.new {
+.product-label > span.new {
   background-color: #D10024;
   border-color: #D10024;
-  color: #FFF;
+  color: #fff;
 }
 
 .product .product-body {
-  position: relative;
   padding: 15px;
-  background-color: #FFF;
+  background-color: #fff;
   text-align: center;
-  z-index: 20;
 }
 
 .product .product-body .product-category {
   text-transform: uppercase;
-  font-size: 12px;
+  font-size: 11px;
   color: #8D99AE;
+  margin-bottom: 5px;
 }
 
 .product .product-body .product-name {
   text-transform: uppercase;
   font-size: 14px;
+  margin: 10px 0;
 }
 
-.product .product-body .product-name>a {
+.product .product-body .product-name a {
   font-weight: 700;
+  color: #333;
+  text-decoration: none;
 }
 
-.product .product-body .product-name>a:hover, .product .product-body .product-name>a:focus {
+.product .product-body .product-name a:hover {
   color: #D10024;
 }
 
 .product .product-body .product-price {
   color: #D10024;
-  font-size: 18px;
+  font-size: 16px;
+  font-weight: bold;
+  margin: 10px 0;
 }
 
 .product .product-body .product-price .product-old-price {
-  font-size: 70%;
+  font-size: 12px;
   font-weight: 400;
   color: #8D99AE;
+  text-decoration: line-through;
+  margin-left: 8px;
 }
 
 .product .product-body .product-rating {
-  position: relative;
-  margin: 15px 0px 10px;
+  margin-top: 10px;
   height: 20px;
 }
 
-.product .product-body .product-rating>i {
-  position: relative;
-  width: 14px;
-  margin-right: -4px;
-  background: #FFF;
-  color: #E4E7ED;
-  z-index: 10;
+.product .product-body .product-rating i {
+  color: #FFD700;
+  font-size: 14px;
+  margin: 0 1px;
 }
 
-.product .product-body .product-rating>i.fa-star {
-  color: #ef233c;
-}
-
-.product .product-body .product-rating:after {
-  content: "";
-  position: absolute;
-  top: 50%;
-  left: 0;
-  right: 0;
-  -webkit-transform: translateY(-50%);
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
-  height: 1px;
-  background-color: #E4E7ED;
-}
 
 .product .product-body .product-btns>button {
   position: relative;
@@ -1011,9 +1023,9 @@ textarea.input {
   visibility: visible;
 }
 
-/*----------------------------*\
-	Widget product
-\*----------------------------*/
+
+
+
 
 .product-widget {
   position: relative;
@@ -2043,9 +2055,7 @@ textarea.input {
   right: -20px;
 }
 
-/*----------------------------*\
-	Dots
-\*----------------------------*/
+
 
 .slick-dots li, .slick-dots li button, .slick-dots li button:before {
   width: 10px;
@@ -2068,9 +2078,6 @@ textarea.input {
   margin: 15px 0px;
 }
 
-/*=========================================================
-	13 -> RESPONSIVE
-===========================================================*/
 
 @media only screen and (max-width: 1201px) {}
 
@@ -2153,7 +2160,7 @@ textarea.input {
       .filter-item ul li {
         margin-bottom: 5px;
       }
-      /* Pour une meilleure lisibilité du container produit */
+  
       #products-container {
         display: flex;
         flex-wrap: wrap;
@@ -2182,7 +2189,7 @@ textarea.input {
       border: 1px solid #ddd;
       padding: 10px;
       margin-bottom: 15px;
-      display: flex;
+   
       gap: 15px;
       align-items: center;
     }
