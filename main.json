@@ -69,7 +69,7 @@
       "name": "ATABEN Voiture lumière ambiante APP contrôle 64 couleurs intérieur éclairage atmosphère",
       "brand": "ATABEN",
       "carBrand": "Universal",
-      "category": "DECORATION",
+      "category": "LED",
       "price": 80,
       "image": "./leda1.jpg"
     },
@@ -299,6 +299,36 @@
       "category": "SECURITE",
       "price": 650,
       "image": "./KIT ALARME 2.jpg"
+    },
+
+     {
+      "id": 34,
+      "name": "Haut-parleurs FOCAL KIT ASE130",
+      "brand": "FOCAL",
+      "carBrand": "Haut parleurs",
+      "category": "AUDIO",
+      "price": 100,
+      "image": "./HPFOCAL3025.jpg"
+    },
+
+     {
+      "id": 35,
+      "name": " Amplificateur AP4340 Focal",
+      "brand": "FOCAL",
+      "carBrand": "Amplificateur",
+      "category": "AUDIO",
+      "price": 230,
+      "image": "./caissfocal.jpg"
+    },
+
+     {
+      "id": 36,
+      "name": "Caisson actif Focal Bomba BP20",
+      "brand": "FOCAL",
+      "carBrand": "Caisson de basse",
+      "category": "AUDIO",
+      "price": 250,
+      "image": "./amplifocal.webp"
     }
 
   ]
