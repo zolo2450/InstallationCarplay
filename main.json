@@ -306,7 +306,7 @@
       "name": "Haut-parleurs FOCAL KIT ASE130",
       "brand": "FOCAL",
       "carBrand": "Haut parleurs",
-      "category": "AUDIO",
+      "category": "AUDIO", 
       "price": 100,
       "image": "./HPFOCAL3025.jpg"
     },
@@ -318,7 +318,7 @@
       "carBrand": "Amplificateur",
       "category": "AUDIO",
       "price": 230,
-      "image": "./caissfocal.jpg"
+      "image": "./amplifocal.webp"
     },
 
      {
@@ -328,7 +328,7 @@
       "carBrand": "Caisson de basse",
       "category": "AUDIO",
       "price": 250,
-      "image": "./amplifocal.webp"
+      "image": "./caissfocal.jpg "
     }
 
   ]
