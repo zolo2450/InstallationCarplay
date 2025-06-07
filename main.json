@@ -130,7 +130,7 @@
     {
       "id": 15,
       "name": "Autoradio pour Toyota Prius 2 2003 - 2009 sans fil Android Auto Carplay, écran tactile, GPS",
-      "brand": "Inconnu",
+      "brand": "Hipzo",
       "carBrand": "Toyota",
       "category": "AUTORADIO",
       "price": 140,
@@ -138,12 +138,12 @@
     },
     {
       "id": 16,
-      "name": "Hizpo 8 Core Android 13 autoradio pour Toyota Prius 3 2009 - 2015, lecteur vidéo, Navigation, GPS, Carplay 4G WIFI",
+      "name": "Hizpo 8 Core Android 13 autoradio pour Toyota Prius 3 2009 - 2015, lecteur vidéo, Navigation, GPS, Carplay",
       "brand": "Hizpo",
       "carBrand": "Toyota",
       "category": "AUTORADIO",
-      "price": 120,
-      "image": "./carplay13.avif"
+      "price": 140,
+      "image": "./CP PRIEUS 3.png"
     },
     {
       "id": 17,
