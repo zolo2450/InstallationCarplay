@@ -312,13 +312,23 @@
     },
 
      {
-      "id": 35,
+      "id": 37,
       "name": " Amplificateur AP4340 Focal",
       "brand": "FOCAL",
       "carBrand": "Amplificateur",
       "category": "AUDIO",
       "price": 150,
       "image": "./amplifocal.webp"
+    },
+
+     {
+      "id": 36,
+      "name": "Caisson actif Focal Bomba BP20",
+      "brand": "FOCAL",
+      "carBrand": "Caisson de basse",
+      "category": "AUDIO",
+      "price": 250,
+      "image": "./caissfocal.jpg "
     }
 
   ]
